@@ -1,2 +1,2 @@
 # ToDo (javascript style) 
-#Because why not?
+Because why not?
